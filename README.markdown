@@ -1,1 +1,1 @@
-New Readme ample text. :)
+NEW Readme sample text. :)
